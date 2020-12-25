@@ -10,7 +10,7 @@ sections:
     features:
       - type: feature
         title: Section Title One
-        subtitle: 'Odio et tortor laoreet, sed interdum augue ornare. '
+        subtitle: 'Odio et tortor laoreet, sed interdum augue ornare.'
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
